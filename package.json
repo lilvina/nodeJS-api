@@ -1,0 +1,14 @@
+{
+  "name": "nodeJS-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lilvina/nodeJS-api",
+  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.4",
+    "nodemon": "^1.19.3",
+    "sqlite3": "^4.1.0"
+  }
+}
