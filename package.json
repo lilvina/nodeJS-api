@@ -2,6 +2,9 @@
   "name": "nodeJS-api",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
   "repository": "https://github.com/lilvina/nodeJS-api",
   "author": "lilvina <davinaleo2007@yahoo.com>",
   "license": "MIT",
