@@ -9,7 +9,7 @@
   "author": "lilvina <davinaleo2007@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.1",
     "knex": "^0.19.4",
     "nodemon": "^1.19.3",
